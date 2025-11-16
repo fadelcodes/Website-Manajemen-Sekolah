@@ -1,0 +1,17 @@
+{
+  "name": "create-admin-script",
+  "version": "1.0.0",
+  "description": "Script untuk membuat akun admin sistem sekolah",
+  "main": "createAdmin.js",
+  "scripts": {
+    "create-admin": "node createAdmin.js",
+    "start": "node createAdmin.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0",
+    "bcrypt": "^5.1.1"
+  },
+  "keywords": ["supabase", "admin", "school"],
+  "author": "Your Name",
+  "license": "MIT"
+}

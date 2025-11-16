@@ -1,0 +1,14 @@
+AKUN ADMIN BERHASIL DIBUAT!
+========================================
+� Email: admin@pgri35.sch.id
+� Password: admin123
+� Role: admin
+� Status: active
+� User ID: 56931cbe-9897-457f-a6f5-701581216922
+========================================
+
+� SEKARANG ANDA BISA LOGIN DENGAN:
+   Email: admin@pgri35.sch.id
+   Password: admin123
+
+� Login di: http://localhost:5173/login
